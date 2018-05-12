@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1887
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39977#Illustrations-of-Universal-Progress--A-Series-of-Discussions
 gutenberg_issued: '2012-06-12'
 gutenberg_type: Text
 identifiers:
